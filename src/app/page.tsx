@@ -102,8 +102,8 @@ export default function Home() {
             </button>
           </div>
 
-          <div className="w-1/2 text-white max-w-md h-96 flex items-center justify-center border-none">
-            <Image src={images.imgB} alt="Logo" className="w-1/2 h-auto mb-3" />
+          <div className="w-1/2 text-white max-w-md h-96 flex items-center justify-center border-none mt-5">
+            <Image src={images.imgB} alt="Logo" className="" />
           </div>
         </div>
       </div>
